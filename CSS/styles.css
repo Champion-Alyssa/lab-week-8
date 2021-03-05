@@ -1,0 +1,53 @@
+body {
+    background-color: #e5dada;
+}
+
+h1 {
+    color:  #002642;
+
+}
+
+html{
+    color: #e59500;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+img{
+    float: right;
+    margin: 7px;
+    height: 500px;
+    width: 350px;
+    ;
+}
+
+header{
+    background-color: #002642;
+    height: 15vh;
+    position: sticky; top: 10px;
+}
+
+nav{ 
+    float: right;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 80px;
+    padding-top: 25px;
+
+}
+
+nav a{
+    color:  #e59500;
+    text-decoration: none;
+
+}
+
+
