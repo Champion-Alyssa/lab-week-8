@@ -27,9 +27,8 @@
     grid-area: s ;
     background-color: #e5e5dc;
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column; 
-    padding: 3rem;
+    padding: 1rem;
 }
 
 .main {
